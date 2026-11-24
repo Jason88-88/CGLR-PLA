@@ -1,5 +1,6 @@
 # CGLR-PLA: Chemistry-Guided Local Rewiring and Geometry-Aware Interaction Representation for Protein–Ligand Binding Affinity Prediction
 <img width="4323" height="4409" alt="image" src="https://github.com/user-attachments/assets/2755f9f4-862c-4725-a6f7-7c5d75b85c78" />
+
 ## Highlights
 1. **Chemistry-Guided Local Rewiring (CGLR).** 
 2. **Geometry-aware graph encoding.** 
